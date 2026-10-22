@@ -1,0 +1,18 @@
+{
+  "name": "Arquero Elfo: El Camino de la Flecha",
+  "short_name": "Arquero",
+  "id": "arquero-elfo-app",
+  "start_url": "/JUEGO-ARQUERO-MAGICO/",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#2e7d32",
+  "description": "Juego educativo de arquería matemática.",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Dieguisto-1318/JUEGO-ARQUERO-MAGICO/main/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
